@@ -4909,7 +4909,8 @@ jQuery.extend( jQuery.easing,
 
           <div class=" black title">
             <div id="slide-0" class="content">
-              <h1><span>Herbivore<span>Carnivore</span></span></h1><h2>Dinosaurs with lasers &amp; acceptance testing</h2>
+              <img src='cavalle.jpeg' alt='cavalle' />
+              <h1><span>CucHerbivore<span>Carnivore</span></span></h1><h2>Dinosaurs with lasers &amp; acceptance testing</h2>
             </div>
           </div>
 
